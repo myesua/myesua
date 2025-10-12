@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Joshua O. (aka myesua)
+# Hi there! 👋 I'm Joshua Ogunyele. (aka myesua)
 
 Full-stack dev (Python/JS/TS) crafting AI agents & tools | Building Multi-Agent Code Review Swarm | Open to collabs on innovative SaaS 🚀 | #EddieHub
 
