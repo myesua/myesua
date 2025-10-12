@@ -17,7 +17,7 @@ Full-stack dev (Python/JS/TS) crafting AI agents & tools | Building Multi-Agent 
 
 ## 📫 Connect With Me
 - 🐦 Twitter: [@j_ogunyele](https://x.com/j_ogunyele)
-- 💼 Looking for: AI roles!
+- 💼 Looking for: Full-stack roles!
 
 ---
 
