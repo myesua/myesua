@@ -5,7 +5,7 @@ Full-stack dev (Python/JS/TS) crafting AI agents & tools | Building QoentAI | Op
 ![Your Skills Badge](https://img.shields.io/badge/Python-Expert-brightgreen) ![JavaScript](https://img.shields.io/badge/JS%2FTS-Master-orange) ![AI%20Agents](https://img.shields.io/badge/AI%20Swarm-Builder-blue)
 
 ## 🚀 What I'm Working On
-- **Qoent**: AI-powered PR reviews focused on security and code health using Gemini integration. Connect with me to see
+- **Vuent**: AI-powered PR reviews focused on security and code health using Gemini integration. Connect with me to see
 - Exploring Unsloth for local LLMs.
 
 
