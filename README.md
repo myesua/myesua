@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Joshua Ogunyele. (aka myesua)
 
-Full-stack dev (Python/JS/TS) crafting AI agents & tools | Building QoentAI | Open to collabs on innovative SaaS 🚀 | #EddieHub
+Full-stack dev (Python/JS/TS) crafting AI agents & tools | Building Sygnal | Open to collabs on innovative SaaS 🚀 | #EddieHub
 
 ![Your Skills Badge](https://img.shields.io/badge/Python-Expert-brightgreen) ![JavaScript](https://img.shields.io/badge/JS%2FTS-Master-orange) ![AI%20Agents](https://img.shields.io/badge/AI%20Swarm-Builder-blue)
 
 ## 🚀 What I'm Working On
-- **Vuent**: AI-powered PR reviews focused on security and code health using Gemini integration. Connect with me to see
+- **Sygnal**: AI-powered buying intent app. Connect with me to see
 - Exploring Unsloth for local LLMs.
 
 
